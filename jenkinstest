@@ -1,1 +1,0 @@
-aws ec2 run-instances --image-id ami-05b3bcf7f311194b3 --count 1 --instance-type t2.micro --key-name aws-ec2-jenkins --security-group-ids sg-0655b31c45d141fbc --subnet-id subnet-ac204fe5 --region ap-southeast-1
